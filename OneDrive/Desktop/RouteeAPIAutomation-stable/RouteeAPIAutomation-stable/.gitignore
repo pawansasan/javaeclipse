@@ -1,0 +1,11 @@
+.DS_Store
+**/target
+**/test-output
+.classpath
+.factorypath
+/target/
+test.log
+.idea
+logs/
+routee.log
+
